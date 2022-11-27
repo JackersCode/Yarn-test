@@ -155,7 +155,7 @@
     "intl-tel-input": "^17.0.15",
     "lodash": "^4.17.15",
     "moment": "^2.29.3",
-    "moment-timezone": "0.5.33",
+    "moment-timezone": "0.5.35",
     "ng-lazyload-image": "^9.0.1",
     "ng-recaptcha": "^6.1.0",
     "ng2-charts": "3.0.11",
