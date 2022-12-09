@@ -182,7 +182,7 @@
     "rxjs-compat": "6.6.6",
     "rxjs-for-await": "^1.0.0",
     "tinycolor2": "1.4.1",
-    "tinymce": "^5.10.2",
+    "tinymce": "^5.10.7",
     "ts-node": "9.1.1",
     "tslib": "^2.3.0",
     "url-loader": "^4.1.1",
